@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <!-- This is where title goes, external dependancies (files, fonts), metadata -->
+      <title>First Day of School</title>
+      <style>
+        body {background-color: green;}
+        li {color: red;}
+      </style>
+    </head>
+    <body>
+      <header>
+        <h1 style="font-size: 3em;">Welcome to class</h1>
+        <!-- h1 is typically the largest header size -->
+        <!-- typically this where I put a nav bar -->
+      </header>
+      <main>
+        <img src="https://libreshot.com/wp-content/uploads/2018/01/back-to-school-1536x1024.jpg">
+        <p style="background-color: silver;">This is where we typically hold text content</p>
+        <ul>
+          <li>list item 1</li>
+          <li style="color: pink">list item 2</li>
+          <li>list item 3</li>
+          <li>list item 4</li>
+          <li>list item 5</li>
+        </ul>
+      </main>
+      <footer></footer>
+      <script>
+        console.log('Hello World');
+        // writes a message in the console
+        let userName= prompt('what is your name?');
+        // the return value on prompt is the response the user gives in the prompt window, and it comes back as a string
+        // debugger;
+        console.log('The userName is ' + userName);
+        let alertReturn = alert('welcome to my webpage ' + userName);
+        // it takes in one argument which is rendered to your screen in a pop up window as an alert
+        // all functions in Javascript have a return value
+        // the default return value is undefined
+      </script>
+    </body>
+  </html>
