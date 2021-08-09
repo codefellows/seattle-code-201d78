@@ -11,19 +11,19 @@ Welcome to Code 201! The assignments on this page are mandatory prep work for al
   
   - [Web Design with HTML & CSS; JavaScript & jQuery book set by Jon Duckett](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&amp;me=)
 
-- [Prep: Setup Your Accounts](/common_curriculum/prep_work/Setup_Your_Accounts)
-- [Prep: Set Up Your Machine](/setup-guide/)
-- [Career: Status Report](/common_curriculum/career_coaching/201/status-report)
+- [Prep: Setup Your Accounts](https://codefellows.github.io/common_curriculum/prep_work/Setup_Your_Accounts)
+- [Prep: Set Up Your Machine](https://github.com/codefellows/setup-guide)
+- [Career: Status Report](https://codefellows.github.io/common_curriculum/career_coaching/201/status-report)
 - [Career: Professional Competency Self-Assessment](https://docs.google.com/forms/d/e/1FAIpQLSenWXMwGGjzgDsXwCi3hw0eJ4oLNPMbdJIP1OGdULMrpYQn9w/viewform)
-- [Career: Update Your Resume](/common_curriculum/career_coaching/201/update-your-resume)
-- [Career: Prepare Your LinkedIn](/common_curriculum/career_coaching/201/prepare-your-linkedin)
-- [Career: Social Media](/common_curriculum/career_coaching/201/prepare-your-social-media)
-- [Create a Reading Notes Repo](/code-201-guide/curriculum/class-01/lab-a)
-- [Read: 01 - Introductory HTML and JavaScript](/common_curriculum/readings_and_reflections/discussion_submission)
+- [Career: Update Your Resume](https://codefellows.github.io/common_curriculum/career_coaching/201/update-your-resume)
+- [Career: Prepare Your LinkedIn](https://codefellows.github.io/common_curriculum/career_coaching/201/prepare-your-linkedin)
+- [Career: Social Media](https://codefellows.github.io/common_curriculum/career_coaching/201/prepare-your-social-media)
+- [Create a Reading Notes Repo](https://codefellows.github.io/code-201-guide/curriculum/class-01/lab-a)
+- [Read: 01 - Introductory HTML and JavaScript](https://codefellows.github.io/common_curriculum/readings_and_reflections/discussion_submission)
 
 ### Please Read
 
-- [Career: Career Coaching Overview](/common_curriculum/career_coaching/)
+- [Career: Career Coaching Overview](https://codefellows.github.io/common_curriculum/career_coaching/)
 
 ### For Those Who Have Not Completed Code 102
 
