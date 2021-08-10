@@ -1,0 +1,42 @@
+/* do any styling that will apply to the entire document
+do styling on all text
+work from top to bottom by section/element */
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+p, li {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+  font-size: 1.25;
+}
+
+header, section, footer {
+  /* border-width: medium;
+  border-style: dotted; */
+  /* border-color: black; */
+  border: thick dotted black;
+  margin: 20px 10px;
+  padding: 10px;
+}
+
+img {
+  width: 300px;
+  margin: 10px auto;
+  display: block;
+}
+
+ol {
+  list-style: decimal inside;
+}
