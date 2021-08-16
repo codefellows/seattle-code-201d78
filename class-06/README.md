@@ -1,7 +1,5 @@
 # The DOM, Domain Modeling, and Introduction to Objects
 
-<a id="top"></a>
-
 ## Lecture
 
 ## Learning Objectives
