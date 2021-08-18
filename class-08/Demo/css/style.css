@@ -1,0 +1,47 @@
+
+body {
+  display: flex;
+}
+
+header {
+  width: 10%;
+}
+
+ nav ul {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+main {
+  width: 90%;
+}
+
+main * {
+  margin: 10px;
+}
+
+section:nth-child(1) img {
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+section:nth-child(2) {
+  display: flex;
+}
+
+article {
+  width: 30%;
+}
+
+article img {
+  width: 100%;
+}
+
+p {
+  overflow: auto;
+  height: 300px;
+}
