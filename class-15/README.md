@@ -56,3 +56,7 @@ Lots of good stuff coming up in Code 301! You'll learn to build MERN apps and de
 - Go over the final project description
 - Discuss GitHub workflow in teams
 - GitHub Issues & Projects are the best way to organize your project work
+
+## design patterns 
+https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
+
